@@ -1,0 +1,26 @@
+{
+  "name": "rdplaylist",
+  "version": "1.0.0",
+  "description": "R&amp;D Shared Playlist",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prontodev/rdplaylist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prontodev/rdplaylist/issues"
+  },
+  "homepage": "https://github.com/prontodev/rdplaylist#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-jasmine": "^2.0.1",
+    "request": "^2.61.0"
+  }
+}
